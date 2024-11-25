@@ -39,5 +39,22 @@ header img{
     padding: 0.5rem;
     background-color: #B1E5F2;
 }
+#text-footer{
+     color: gray;
+}
 
-
+#image1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 20rem;
+    height: 10rem;
+    color: white;
+    
+}
+#image2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 20rem;
+    height: 10rem;
+    color: white;
+}
