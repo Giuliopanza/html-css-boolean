@@ -1,8 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+
 #box{
     background-color: #4EA0FF;
     background-image:url(../img/pattern.png);
@@ -26,3 +22,22 @@ header img{
     font-size: 0.8rem;
     color: gray;
 }
+.table {
+    margin: 1rem 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+#first-line{
+    border: 1px solid;
+    padding: 0.5rem;
+    background-color: blue;
+    color: white;
+
+}
+.line{
+    border: 1px solid;
+    padding: 0.5rem;
+    background-color: #B1E5F2;
+}
+
+
